@@ -1,0 +1,17 @@
+
+table{
+    border-collapse: collapse;
+}
+td,tr{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+div{
+    align-content: space-between;
+    flex-direction: row-reverse;
+    
+
+}
+.imagine{
+    padding: 1.2em;
+}
